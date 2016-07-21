@@ -1,6 +1,6 @@
 # await-delay
 
-
+use delay/sleep to async/await ES7
 
 ## Installation 
 

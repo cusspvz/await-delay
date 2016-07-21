@@ -1,0 +1,30 @@
+{
+  "name": "await-delay",
+  "version": "0.0.0",
+  "description": "use delay/sleep to async/await ES7",
+  "main": "index.js",
+  "scripts": {
+    "postversion": "git push origin master && git push origin --tags",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cusspvz/await-delay.git"
+  },
+  "keywords": [
+    "await",
+    "async",
+    "delay",
+    "sleep",
+    "wait",
+    "promises",
+    "promise",
+    "es7"
+  ],
+  "author": "José Moreira <josemoreiravarzim@gmail.com>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/cusspvz/await-delay/issues"
+  },
+  "homepage": "https://github.com/cusspvz/await-delay#readme"
+}
